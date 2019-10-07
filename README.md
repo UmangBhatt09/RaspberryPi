@@ -15,7 +15,7 @@ The Steps are as follows:
 ############################################################    Code in Code_py     ###############################################
 
 ************************************************************   BASIC NUMPAD   **************************************************
-In this we will laern to interface a numpad with RPi.
+In this we will learn to interface a numpad with RPi.
 One can use any Numpad, I will be using one of matrix size 4x4.
 
  We need no special libraries for this. Only library use will be GPIO which is already present in a RPi.
